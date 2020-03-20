@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "std/": "https://deno.land/std@v0.36.0/",
+    "someFile": "./src/someFile.ts",
+    "someFolder/": "./src/someFolder/"
+  }
+}

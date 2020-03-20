@@ -1,0 +1,1 @@
+export default () => console.log("I see a flag");

@@ -1,0 +1,1 @@
+export const log2 = () => console.log("No flag");
